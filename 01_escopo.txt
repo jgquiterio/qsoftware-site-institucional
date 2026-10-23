@@ -1,0 +1,47 @@
+PROJETO: PRJ-0002_Qsoftware_Site_Institucional
+EMPRESA: Qsoftware
+VERSÃO: Light
+METODOLOGIA: Scrum
+VERSIONAMENTO E GESTÃO: GitHub Projects
+
+1. OBJETIVO
+Desenvolver um site institucional para a Qsoftware, com identidade visual profissional, navegação intuitiva e layout responsivo.
+
+2. ESCOPO
+O projeto contempla exclusivamente duas páginas:
+
+HOME
+- Apresentação institucional da Qsoftware.
+- Resumo dos serviços oferecidos.
+- Diferenciais e benefícios.
+- Chamadas para ação.
+- Seção de contato.
+
+QUEM SOMOS
+- Apresentação da empresa.
+- História e propósito.
+- Missão, visão e valores.
+- Posicionamento institucional.
+
+3. TECNOLOGIAS
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5 via CDN
+
+4. DIRETRIZES
+- Design responsivo.
+- Interface leve e moderna.
+- Código organizado e reutilizável.
+- Compatibilidade com navegadores modernos.
+- Estrutura preparada para publicação via GitHub Pages.
+
+5. FORA DO ESCOPO
+- Blog e área administrativa.
+- Banco de dados e backend.
+- Sistema de autenticação.
+- Loja virtual.
+- Páginas adicionais.
+
+6. CRITÉRIO DE CONCLUSÃO
+As duas páginas devem estar implementadas, responsivas, navegáveis e publicadas, com os arquivos versionados no GitHub.

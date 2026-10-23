@@ -1,0 +1,33 @@
+PROJETO: PRJ-0002_Qsoftware_Site_Institucional
+
+1. REQUISITOS FUNCIONAIS
+RF01 - Exibir a página inicial da Qsoftware.
+RF02 - Exibir a página Quem Somos.
+RF03 - Permitir navegação entre as duas páginas.
+RF04 - Apresentar os serviços e diferenciais da empresa.
+RF05 - Apresentar informações institucionais.
+RF06 - Disponibilizar chamadas para contato.
+RF07 - Exibir menu de navegação responsivo.
+
+2. REQUISITOS NÃO FUNCIONAIS
+RNF01 - Layout adaptável a computadores, tablets e celulares.
+RNF02 - Código HTML semântico e organizado.
+RNF03 - CSS reutilizável entre as páginas.
+RNF04 - JavaScript utilizado apenas quando necessário.
+RNF05 - Boa legibilidade e acessibilidade básica.
+RNF06 - Carregamento eficiente dos recursos.
+RNF07 - Compatibilidade com navegadores modernos.
+RNF08 - Estrutura compatível com GitHub Pages.
+
+3. RESTRIÇÕES
+- Somente duas páginas: HOME e QUEM SOMOS.
+- Utilização de HTML5, CSS3, JavaScript e Bootstrap 5 via CDN.
+- Sem backend ou banco de dados.
+- Conteúdo institucional sujeito à validação da empresa.
+
+4. CRITÉRIOS DE ACEITAÇÃO
+- Todas as páginas devem abrir corretamente.
+- Os links de navegação devem funcionar.
+- O layout deve funcionar em diferentes tamanhos de tela.
+- Não devem existir links internos quebrados.
+- O site deve estar publicado e acessível.

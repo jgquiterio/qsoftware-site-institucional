@@ -1,0 +1,37 @@
+PROJETO: PRJ-0002_Qsoftware_Site_Institucional
+
+1. DOCUMENTAÇÃO
+- escopo.txt
+- requisitos.txt
+- entregas.txt
+- README.md
+
+2. DESENVOLVIMENTO
+- index.html - Página HOME.
+- quem-somos.html - Página QUEM SOMOS.
+- css/style.css - Estilos compartilhados.
+- js/script.js - Interações necessárias.
+
+3. IDENTIDADE VISUAL
+- Aplicação da identidade visual da Qsoftware.
+- Paleta de cores e tipografia consistentes.
+- Layout responsivo.
+- Componentes visuais padronizados.
+
+4. TESTES
+- Verificação de navegação.
+- Testes em desktop e dispositivos móveis.
+- Verificação de links e recursos.
+- Revisão de acessibilidade básica.
+
+5. VERSIONAMENTO E PUBLICAÇÃO
+- Repositório GitHub.
+- Commits organizados.
+- Gestão de tarefas no GitHub Projects com Scrum.
+- Publicação via GitHub Pages.
+
+6. ENTREGA FINAL
+- Código-fonte organizado.
+- Documentação atualizada.
+- Duas páginas funcionais.
+- Site publicado e validado.
