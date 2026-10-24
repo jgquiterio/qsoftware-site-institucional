@@ -35,3 +35,28 @@ PROJETO: PRJ-0002_Qsoftware_Site_Institucional
 - Documentação atualizada.
 - Duas páginas funcionais.
 - Site publicado e validado.
+
+ENTREGAS IMPLEMENTADAS
+
+1. Página HOME
+   - Cabeçalho com navegação responsiva.
+   - Seção principal de apresentação.
+   - Cards de serviços.
+   - Apresentação resumida da Qsoftware.
+   - Seção de contato e rodapé dinâmico.
+
+2. Página QUEM SOMOS
+   - Apresentação institucional.
+   - Seção Nossa História.
+   - Seção Nossa Missão.
+   - Seção Nosso Compromisso.
+   - Chamada para contato.
+
+3. Recursos compartilhados
+   - HTML5, CSS3, JavaScript e Bootstrap 5.
+   - Layout responsivo.
+   - Navegação entre as páginas.
+   - Atualização automática do ano no rodapé.
+
+STATUS: IMPLEMENTAÇÃO INICIAL CONCLUÍDA.
+PRÓXIMA ETAPA: REVISÃO VISUAL, VALIDAÇÃO E PUBLICAÇÃO.
